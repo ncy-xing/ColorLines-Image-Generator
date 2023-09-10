@@ -1,8 +1,8 @@
 # ColorLines Image Generator
 
 <div style="display: inline-block">
-  <img src="examples/1_example_input.jpg" alt="drawing" width="500"/>
-  <img src="examples/1_example_output_2.jpg" alt="drawing" width="500"/>
+  <img src="examples/1_example_input.jpg" alt="drawing" width="300"/>
+  <img src="examples/1_example_output_2.jpg" alt="drawing" width="300"/>
 </div>
 
 
