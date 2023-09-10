@@ -1,1 +1,3 @@
 # Colored-Image-Generator
+
+Dependencies: 
