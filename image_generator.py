@@ -105,7 +105,7 @@ if __name__ == "__main__":
     
     print("Generating images...")
     for filename in os.listdir("input"):
-        if os.path.splitext(filename)[1] in [".jpg", ".png"]:
+        if os.path.splitext(filename)[1] in [".jpg", ".png", ".JPG", ".PNG"]:
             gen = ImageGenerator(filename)
             gen.generate_image()
     print("Image generation complete.")
